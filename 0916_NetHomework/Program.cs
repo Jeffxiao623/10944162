@@ -10,6 +10,8 @@ namespace _0916_NetHomework
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("10944162 蕭勛夫");
+            Console.ReadKey();
         }
     }
 }
